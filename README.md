@@ -8,8 +8,7 @@ Open New Terminal Window & Please ```cd``` into ```api``` folder and then run
 ```npm install```
 
 Run ```npm start``` to run this on your local server. 
-
-Open http://localhost:3000/streams to view the fake api resource powered by json-server. The API Server is used for interacting with our Frontend. The page will reload if you make edits.
+The API Server is used for interacting with our Frontend. The page will reload if you make edits.
 You will also see any lint errors in the console.
 
 
