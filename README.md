@@ -13,7 +13,7 @@ You will also see any lint errors in the console.
 
 
 ## Frontend - Client Server
-Open New Terminal Window & Please ```cd``` into ```client``` folder and then run 
+Open New Terminal Window & Please ```cd``` into ```client``` folder and then run. 
 ```npm install```
 Run ```npm start``` to run this on your local server. This opens port 3000.
 
